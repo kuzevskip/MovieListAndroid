@@ -1,0 +1,39 @@
+*.iml
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+.gradle
+build/
+/build
+
+/local.properties
+
+# User-specific configurations
+*.iml
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/tasks.xml
+/.idea/.name
+/.idea/compiler.xml
+/.idea/copyright/profiles_settings.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/scopes/scope_settings.xml
+/.idea/vcs.xml
+/.idea/markdown-exported-files.xml
+/.idea/markdown-navigator.xml
+/.idea/markdown-navigator
+/.idea
+
+.DS_Store
+/build
+/captures
+.externalNativeBuild
